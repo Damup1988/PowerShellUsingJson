@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Damir",
+    "Age": "32",
+    "Sex": "Male",
+    "Address": "Kazan"
+  },
+  {
+    "Name": "Gulnaz",
+    "Age": "32",
+    "Sex": "Female",
+    "Address": "Kazan"
+  },
+  {
+    "Name": "Adeliya",
+    "Age": "1",
+    "Sex": "Female",
+    "Address": "Kazan"
+  }
+]
